@@ -234,30 +234,19 @@ header .header-content .header-content-inner{
   position: absolute;
   top: 40%;
 }
-.project-category,
-.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-  font-size: 40px;
-}
 .project-category {
   text-transform: uppercase;
   font-weight: 600;
-  font-size: 14px;
+  font-size: 24px;
 }
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-  font-size: 18px;
+  font-size: 22px;
 }
 .portfolio-box:hover .portfolio-box-caption  {
   background-color: rgba(255,255,255,0);
   color: rgba(255,255,255,0);
 }
-
 @media (min-width: 768px) {
-  .project-category {
-    font-size: 24px;
-  }
-  .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-    font-size: 26px;
-  }
   .portfolio-box{
     padding-bottom: 0;
   }
