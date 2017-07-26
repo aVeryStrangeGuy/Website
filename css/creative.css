@@ -200,6 +200,9 @@ header .header-content .header-content-inner{
   .service-box {
     margin: 20px auto 0;
   }
+  #services .row {
+    padding-bottom: 30px;
+  }
 }
 .service-box p {
   margin-bottom: 0;
@@ -250,10 +253,10 @@ header .header-content .header-content-inner{
 
 @media (min-width: 768px) {
   .project-category {
-    font-size: 16px;
+    font-size: 24px;
   }
   .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-    font-size: 22px;
+    font-size: 26px;
   }
   .portfolio-box{
     padding-bottom: 0;
